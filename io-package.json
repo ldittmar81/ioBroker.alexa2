@@ -27,7 +27,8 @@
                 "fr": "gestion des cookies optimisée et correction des erreurs",
                 "it": "gestione dei cookie ottimizzata e correzione degli errori",
                 "es": "Manejo optimizado de cookies y corrección de errores.",
-                "pl": "obsługa plików cookie zoptymalizowana i naprawione błędy"
+                "pl": "obsługa plików cookie zoptymalizowana i naprawione błędy",
+                "zh-cn": "cookie处理的最优化的和固定的错误"
             },
             "1.1.2": {
                 "en": "Alexa Proxy problems fixed and some new devices added",
@@ -38,7 +39,8 @@
                 "fr": "Problèmes Alexa Proxy résolus et ajout de nouveaux appareils",
                 "it": "Problemi di Alexa Proxy risolti e alcuni nuovi dispositivi aggiunti",
                 "es": "Se solucionaron los problemas de Alexa Proxy y se agregaron algunos dispositivos nuevos.",
-                "pl": "Naprawiono problemy z serwerem Alexa Proxy i dodano nowe urządzenia"
+                "pl": "Naprawiono problemy z serwerem Alexa Proxy i dodano nowe urządzenia",
+                "zh-cn": "Alexa的代理问题，固定的和一些新的设备加入"
             },
             "1.1.1": {
                 "en": "Alexa Proxy problems fixed and some new devices added",
@@ -49,7 +51,8 @@
                 "fr": "Problèmes Alexa Proxy résolus et ajout de nouveaux appareils",
                 "it": "Problemi di Alexa Proxy risolti e alcuni nuovi dispositivi aggiunti",
                 "es": "Se solucionaron los problemas de Alexa Proxy y se agregaron algunos dispositivos nuevos.",
-                "pl": "Naprawiono problemy z serwerem Alexa Proxy i dodano nowe urządzenia"
+                "pl": "Naprawiono problemy z serwerem Alexa Proxy i dodano nowe urządzenia",
+                "zh-cn": "Alexa的代理问题，固定的和一些新的设备加入"
             },
             "1.1.0": {
                 "en": "Bespoken, fixes, optimizations and enhanced smart home devices and group management and control",
@@ -60,7 +63,8 @@
                 "fr": "Bespoken, des correctifs, des optimisations et des dispositifs améliorés pour la maison intelligente, ainsi que la gestion et le contrôle des groupes",
                 "it": "Bespoken, correzioni, ottimizzazioni e dispositivi smart home avanzati e gestione e controllo di gruppo",
                 "es": "Bespoken, arreglos, optimizaciones y dispositivos mejorados para hogares inteligentes y administración y control grupal",
-                "pl": "Bespoken, poprawki, optymalizacje i ulepszone inteligentne urządzenia domowe oraz zarządzanie grupą i sterowanie"
+                "pl": "Bespoken, poprawki, optymalizacje i ulepszone inteligentne urządzenia domowe oraz zarządzanie grupą i sterowanie",
+                "zh-cn": "马德里、修订、优化和增强的智能家用设备和组管理和控制"
             },
             "0.5.2": {
                 "en": "fixes, changes, optimizations, add support for reminders and alarms",
@@ -71,7 +75,8 @@
                 "fr": "corrections, modifications, optimisations, ajout de la prise en charge des rappels et des alarmes",
                 "it": "correzioni, modifiche, ottimizzazioni, aggiungere supporto per promemoria e allarmi",
                 "es": "arreglos, cambios, optimizaciones, agregar soporte para recordatorios y alarmas",
-                "pl": "poprawki, zmiany, optymalizacje, dodawanie obsługi przypomnień i alarmów"
+                "pl": "poprawki, zmiany, optymalizacje, dodawanie obsługi przypomnień i alarmów",
+                "zh-cn": "修正、变化、优化、增加支持的提醒和警报"
             },
             "0.4.0": {
                 "en": "fixes, changes, introduce push connection to update data in realtime",
@@ -82,7 +87,8 @@
                 "fr": "corrections, modifications, introduction de la connexion push pour mettre à jour les données en temps réel",
                 "it": "correzioni, modifiche, introdurre la connessione push per aggiornare i dati in tempo reale",
                 "es": "arregla, cambia, introduce una conexión de inserción para actualizar datos en tiempo real",
-                "pl": "poprawki, zmiany, wprowadzenie połączenia push do aktualizacji danych w czasie rzeczywistym"
+                "pl": "poprawki, zmiany, wprowadzenie połączenia push do aktualizacji danych w czasie rzeczywistym",
+                "zh-cn": "修正、改变、引入推连接更新数据的实时"
             },
             "0.3.8": {
                 "en": "fixes problems for multi room again",
@@ -93,7 +99,8 @@
                 "fr": "résout des problèmes pour plusieurs pièces",
                 "it": "risolve di nuovo i problemi per la multi stanza",
                 "es": "arregla problemas para multihabitación de nuevo",
-                "pl": "naprawia problemy z multi roomem"
+                "pl": "naprawia problemy z multi roomem",
+                "zh-cn": "修复问题的多的房间再次"
             },
             "0.3.4": {
                 "en": "fixes for routines and multi room commands and music-providers",
@@ -104,19 +111,44 @@
                 "fr": "correctifs pour les routines et les commandes multi-pièces et les fournisseurs de musique",
                 "it": "correzioni per routine e comandi multi-room e fornitori di musica",
                 "es": "arreglos para rutinas y comandos multi room y proveedores de música",
-                "pl": "poprawki dla rutyn i poleceń multi-room oraz dostawców muzyki"
+                "pl": "poprawki dla rutyn i poleceń multi-room oraz dostawców muzyki",
+                "zh-cn": "修复程序和多房间命令和音乐商"
             },
             "0.3.2": {
                 "en": "fixes, changes und settings window materialized fixes",
-                "de": "Fehlerbehebungen, Änderungen und Einstellungsfenster im Material Design Fehler behoben"
+                "de": "Fehlerbehebungen, Änderungen und Einstellungsfenster im Material Design Fehler behoben",
+                "ru": "исправления, изменения и окно настроек материализовался исправления",
+                "pt": "correcções, alterações e configurações de janela materializado correções",
+                "nl": "correcties, wijzigingen en instellingen venster gematerialiseerd fixes",
+                "fr": "corrections, modifications et les réglages de la fenêtre matérialisé correctifs",
+                "it": "correzioni, modifiche e finestra impostazioni materializzato correzioni",
+                "es": "correcciones, cambios y ajustes de la ventana se materializó correcciones",
+                "pl": "poprawki, zmiany i okno ustawień zmaterializował poprawki",
+                "zh-cn": "修正、改变und设置窗口实现修复"
             },
             "0.2.4": {
                 "en": "fixes, changes und settings window materialized",
-                "de": "Fehlerbehebungen, Änderungen  und Einstellungsfenster im Material Design"
+                "de": "Fehlerbehebungen, Änderungen  und Einstellungsfenster im Material Design",
+                "ru": "исправления, изменения и окно настроек материализовались",
+                "pt": "correcções, alterações e configurações de janela materializado",
+                "nl": "correcties, wijzigingen en instellingen venster gematerialiseerd",
+                "fr": "corrections, modifications et les réglages de la fenêtre matérialisé",
+                "it": "correzioni, modifiche e finestra impostazioni materializzato",
+                "es": "correcciones, cambios y ajustes de la ventana se materializó",
+                "pl": "poprawki, zmiany i okno ustawień ujawniającą",
+                "zh-cn": "修正、改变und设置窗口实现"
             },
             "0.2.1": {
                 "en": "first release as Alexa2",
-                "de": "Erste Veröffentlichung als Alexa2"
+                "de": "Erste Veröffentlichung als Alexa2",
+                "ru": "первый выпуск как Alexa2",
+                "pt": "primeira versão como Alexa2",
+                "nl": "eerste release als Alexa2",
+                "fr": "première sortie en tant que Alexa2",
+                "it": "prima versione come Alexa2",
+                "es": "primer lanzamiento como Alexa2",
+                "pl": "pierwsza wersja jak Alexa2",
+                "zh-cn": "第一个版本作为Alexa2"
             }
         },
         "keywords": [
@@ -127,7 +159,7 @@
             "echo show"
         ],
         "authors": [
-          "Apollon77 <iobroker@fischer-ka.de>"
+            "Apollon77 <iobroker@fischer-ka.de>"
         ],
         "mode": "daemon",
         "icon": "alexa.png",
@@ -161,7 +193,8 @@
         "bespokenLocale": "de-DE"
     },
     "objects": [],
-    "instanceObjects": [{
+    "instanceObjects": [
+        {
             "_id": "info",
             "type": "channel",
             "common": {

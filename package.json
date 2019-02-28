@@ -6,7 +6,8 @@
         "name": "Apollon77",
         "email": "ingo@fischer-ka.de"
     },
-    "contributors": [{
+    "contributors": [
+        {
             "name": "soef",
             "email": "soef@gmx.net"
         },
@@ -43,7 +44,8 @@
     "devDependencies": {
         "gulp": "^4.0.0",
         "mocha": "^5.2.0",
-        "chai": "^4.2.0"
+        "chai": "^4.2.0",
+        "axios": "^0.18.0"
     },
     "main": "main.js",
     "scripts": {
